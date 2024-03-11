@@ -1,0 +1,20 @@
+El Mounib: 1
+Sakiat Mekki: 2
+Omm El Misryeen: 3
+Giza: 4
+Faisal: 5
+Cairo University: 6
+El Bohos: 7
+El Dokki: 8
+Opera: 9
+Anwar El Sadat: 10
+Mohamed Naguib: 11
+Ataba: 12
+Al Shohadaa: 13
+Masara: 14
+Road El Farag: 15
+Sant Katrin: 16
+El Khalafawy: 17
+Mezallat: 18
+Kolleyet El Zeraa: 19
+Shobra El Kheima: 20

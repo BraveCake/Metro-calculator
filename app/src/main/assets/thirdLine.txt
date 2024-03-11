@@ -1,0 +1,29 @@
+Adly Mansour: 1
+Haykstep: 2
+Omar Ibn Al-Khattab: 3
+Quba: 4
+Hisham Barakat: 5
+Nazha: 6
+Shams Club: 7
+Alif Masakin: 8
+Heliopolis: 9
+Haroun: 10
+Al-Ahram: 11
+Girls College: 12
+Stadium: 13
+Exhibition Grounds: 14
+Al-Abbasia: 15
+Abdo Pasha: 16
+Army: 17
+Bab Al-Shaaria: 18
+Ataba: 19
+Gamal Abdel Nasser: 20
+Maspero: 21
+Safaa Hegazi: 22
+Kit Kat: 23
+Sudan: 24
+Imbaba: 25
+Al Bohy: 26
+Al-Qawmeya: 27
+Ring Road: 28
+Rod El-Farag Axis: 29

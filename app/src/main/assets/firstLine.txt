@@ -1,0 +1,35 @@
+Helwan: 1
+Ein Helwan: 2
+Helwan University: 3
+Wadi Hof: 4
+Hadayek Helwan: 5
+El Maasara: 6
+Tora El Asmant: 7
+Kotet El Kobba: 8
+Tora El Balad: 9
+Thakanat El Maadi: 10
+El Maadi: 11
+Hadayek El Maadi: 12
+Dar El Salam: 13
+El Zahraa: 14
+Mar Girgis: 15
+El Malek El Saleh: 16
+Sayeda Zeinab: 17
+Saad Zaghloul: 18
+Anwar El Sadat: 19
+Gamal Abdel Nasser: 20
+Ahmed Orabi: 21
+Al Shohadaa: 22
+Ghamra: 23
+El Demerdash: 24
+Manshiet El Sadr: 25
+Kobri El Qobba: 26
+Hamamat El Qobba: 27
+Saray El Qobba: 28
+Hadayek El Zaitoun: 29
+Helmiyyat El Zaitoun: 30
+El Matariya: 31
+Ain Shams: 32
+Azbet El Nakhl: 33
+El Marg: 34
+New El Marg: 35
